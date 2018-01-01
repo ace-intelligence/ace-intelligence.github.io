@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ACE-Intelligence Blog
 
 You can use the [editor on GitHub](https://github.com/ace-intelligence/ace-intelligence.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
